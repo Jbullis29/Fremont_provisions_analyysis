@@ -1,0 +1,16 @@
+,service,food_quality,environment,experience,menu_options,reccomendation_to_fam_and_friends,price
+0,4,4,4,4,4,y,Ticket Matched Expected Price
+1,5,4,5,4,4,y,Ticket Matched Expected Price
+2,4,3,3,3,4,y,Price was not marked on ticket
+3,5,5,5,5,5,y,Ticket Matched Expected Price
+4,5,5,5,5,5,y,Ticket Matched Expected Price
+5,5,5,5,5,5,y,Ticket Matched Expected Price
+6,5,5,5,5,5,y,Price was not marked on ticket
+7,5,5,5,5,5,y,Ticket Matched Expected Price
+8,5,5,5,5,5,y,Ticket Matched Expected Price
+9,5,5,5,5,5,y,Ticket Matched Expected Price
+10,5,5,5,5,4,y,Ticket Matched Expected Price
+11,5,5,5,5,5,y,Ticket Matched Expected Price
+12,4,5,4,4,4,y,Ticket Matched Expected Price
+13,5,5,5,5,5,y,Price was not marked on ticket
+14,5,5,5,5,4,y,Price was not marked on ticket
