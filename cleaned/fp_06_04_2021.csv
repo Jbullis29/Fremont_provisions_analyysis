@@ -1,44 +1,58 @@
-,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
-0,2,3,4,3,2,y,Price was not marked on ticket,Staff needs training
-1,4,5,5,5,4,y,Ticket Matched Expected Price,Lots of chocolate on french toast
-2,4,4,4,4,2,y,Price was not marked on ticket,"Great food - service, so happy to have you here!"
-3,5,5,5,5,5,y,Price was not marked on ticket,Please add fruit for breakfast
-4,5,5,5,5,5,y,Price was not marked on ticket,Alicia wa awesome
-5,5,5,5,5,5,y,Ticket price was lower than expected,Alicia took great care of my needs.
-6,5,5,5,5,5,y,Ticket Matched Expected Price,The steak was perfectly cooked and possibly the best steak I've ever had !!
-7,5,5,5,5,4,y,Ticket Matched Expected Price,Ran out of item I wanted
-8,5,5,5,5,5,y,Ticket Matched Expected Price,It'd just be nice to have another veggie based entrée. Croutons in caesar are pretty hard to chew.
-9,5,5,5,5,5,y,Ticket Matched Expected Price,Make sure the food comes together. Great food
-10,5,4,3,5,4,y,Ticket Matched Expected Price,Very Attentive? Good Job?
-11,5,5,5,5,5,y,Price was not marked on ticket,It can only get better from here. Keep up the good job.
-12,5,5,5,5,5,y,Price was not marked on ticket,WONDERFUL!
-13,5,5,5,5,5,y,Ticket Matched Expected Price,Codi was great. Put Cornivore on secret menu
-14,4,5,4,4,5,y,Ticket Matched Expected Price,I would recomment some soft surfaces to help with sound
-15,5,5,5,5,4,y,Ticket Matched Expected Price,Hostess was amazing :)
-16,5,4,5,5,4,y,Price was not marked on ticket,There is room for improvement with both the quality of serve and the food.
-17,5,5,5,5,5,y,Ticket price was more than expected,My medium hamburger was a bit rare
-18,5,4,5,5,3,y,Price was not marked on ticket,"Did not like tortillas, rest was great. Great musice. Love the patio."
-19,5,5,5,5,5,y,Ticket Matched Expected Price,Itemize the bill
-20,4,3,4,3,3,y,Ticket Matched Expected Price,Baked potato with steak hot food - not warm. Need more improvement with food and service
-21,1,5,5,3,4,y,Ticket Matched Expected Price,Enjoyed our meal. Thank you
-22,5,5,5,5,5,y,Ticket Matched Expected Price,1st time - fabulous food!
-23,5,5,4,5,4,y,Ticket Matched Expected Price,Music on patio is too loud. Bathroom is lovely. Maybe more variety on menu (grilled meat or seafood) salad. Happy to have anew tasty restaurant in Canon. Welcome & good luck
-24,1,3,5,1,5,n,Ticket Matched Expected Price,"Alicia was very attentive, and so helpful explaining specials. Thank you"
-25,3,2,3,2,4,n,Ticket price was more than expected,"Great bartender, Manager that helps his staff & checks on guests. Chef who made sure we were happy. Love this place"
-26,5,5,5,5,5,y,Ticket Matched Expected Price,Server was very pleasant and did her best. However manager has not given staff needed to be successfue training. Restroom was a 10!
-27,5,4,5,5,4,y,Price was not marked on ticket,Drink menu w/information re: juices etc. (is the OJ fresh?). Coffee options? Loved it!
-28,5,4,5,5,4,y,Price was not marked on ticket,I would like to see the taco special part of your regular menu. Keep up the good work. You are just what Canon needed!
-29,5,4,5,4,4,y,Ticket price was more than expected,Our server was nice and smelled great. I will be back
-30,3,3,3,3,3,n,Price was not marked on ticket,Loved the marked items too
-31,5,4,4,4,4,y,Ticket Matched Expected Price,Chowder was great! To few entrees
-32,4,4,5,4,4,y,Ticket Matched Expected Price,We can't read the specials on the board from our table
-33,5,5,5,5,5,y,Ticket price was more than expected,"Emily, our server, was GREAT. More meat on the GCP tacos perhaps an indicator for ""spicy"". Wonderful experience !:)"
-34,4,5,5,5,4,y,Price was not marked on ticket,5pm menu - weekend start earlier.
-35,4,3,5,4,3,y,Price was not marked on ticket,Dinner needs to be available befor 5pm. How about 4pm on the weekends or earlier!
-36,5,5,5,5,5,y,Ticket Matched Expected Price,The 5:00pm menu should be 3:00pm on the weekends
-37,5,5,5,5,5,y,Ticket price was lower than expected,Charcuterie Board was amazing. We should buy more Lazy Susans and sell those for $20.
-38,5,5,5,5,5,y,Ticket Matched Expected Price,   Move High Chairs to server room
-39,5,5,5,5,5,y,Ticket price was lower than expected,   Green Chili tacos were warm
-40,3,4,4,4,5,y,Ticket Matched Expected Price,   Pickled carrots are great!!
-41,4,4,4,4,3,y,Ticket Matched Expected Price,"   All in all, really great experience and tons of value."
-42,5,5,5,5,5,y,Price was not marked on ticket,We will be back. Excellent!!!
+,date,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
+0,06_04_2021,2,3,4,3,2,y,Price was not marked on ticket,Staff needs training
+1,06_04_2021,4,5,5,5,4,y,Ticket Matched Expected Price,Lots of chocolate on french toast
+2,06_04_2021,4,4,4,4,2,y,Price was not marked on ticket,"Great food - service, so happy to have you here!"
+3,06_04_2021,5,5,5,5,5,y,Price was not marked on ticket,Please add fruit for breakfast
+4,06_04_2021,5,5,5,5,5,y,Price was not marked on ticket,Alicia wa awesome
+5,06_04_2021,5,5,5,5,5,y,Ticket price was lower than expected,Alicia took great care of my needs.
+6,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,The steak was perfectly cooked and possibly the best steak I've ever had !!
+7,06_04_2021,5,5,5,5,4,y,Ticket Matched Expected Price,Ran out of item I wanted
+8,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,It'd just be nice to have another veggie based entrée. Croutons in caesar are pretty hard to chew.
+9,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Make sure the food comes together. Great food
+10,06_04_2021,5,4,3,5,4,y,Ticket Matched Expected Price,Very Attentive? Good Job?
+11,06_04_2021,5,5,5,5,5,y,Price was not marked on ticket,It can only get better from here. Keep up the good job.
+12,06_04_2021,5,5,5,5,5,y,Price was not marked on ticket,WONDERFUL!
+13,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Codi was great. Put Cornivore on secret menu
+14,06_04_2021,4,5,4,4,5,y,Ticket Matched Expected Price,I would recomment some soft surfaces to help with sound
+15,06_04_2021,5,5,5,5,4,y,Ticket Matched Expected Price,Hostess was amazing :)
+16,06_04_2021,5,4,5,5,4,y,Price was not marked on ticket,There is room for improvement with both the quality of serve and the food.
+17,06_04_2021,5,5,5,5,5,y,Ticket price was more than expected,My medium hamburger was a bit rare
+18,06_04_2021,5,4,5,5,3,y,Price was not marked on ticket,"Did not like tortillas, rest was great. Great musice. Love the patio."
+19,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Itemize the bill
+20,06_04_2021,4,3,4,3,3,y,Ticket Matched Expected Price,Baked potato with steak hot food - not warm. Need more improvement with food and service
+21,06_04_2021,1,5,5,3,4,y,Ticket Matched Expected Price,Enjoyed our meal. Thank you
+22,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,1st time - fabulous food!
+23,06_04_2021,5,5,4,5,4,y,Ticket Matched Expected Price,Music on patio is too loud. Bathroom is lovely. Maybe more variety on menu (grilled meat or seafood) salad. Happy to have anew tasty restaurant in Canon. Welcome & good luck
+24,06_04_2021,1,3,5,1,5,n,Ticket Matched Expected Price,"Alicia was very attentive, and so helpful explaining specials. Thank you"
+25,06_04_2021,3,2,3,2,4,n,Ticket price was more than expected,"Great bartender, Manager that helps his staff & checks on guests. Chef who made sure we were happy. Love this place"
+26,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Server was very pleasant and did her best. However manager has not given staff needed to be successfue training. Restroom was a 10!
+27,06_04_2021,5,4,5,5,4,y,Price was not marked on ticket,Drink menu w/information re: juices etc. (is the OJ fresh?). Coffee options? Loved it!
+28,06_04_2021,5,4,5,5,4,y,Price was not marked on ticket,I would like to see the taco special part of your regular menu. Keep up the good work. You are just what Canon needed!
+29,06_04_2021,5,4,5,4,4,y,Ticket price was more than expected,Our server was nice and smelled great. I will be back
+30,06_04_2021,3,3,3,3,3,n,Price was not marked on ticket,Loved the marked items too
+31,06_04_2021,5,4,4,4,4,y,Ticket Matched Expected Price,Chowder was great! To few entrees
+32,06_04_2021,4,4,5,4,4,y,Ticket Matched Expected Price,We can't read the specials on the board from our table
+33,06_04_2021,5,5,5,5,5,y,Ticket price was more than expected,"Emily, our server, was GREAT. More meat on the GCP tacos perhaps an indicator for ""spicy"". Wonderful experience !:)"
+34,06_04_2021,4,5,5,5,4,y,Price was not marked on ticket,5pm menu - weekend start earlier.
+35,06_04_2021,4,3,5,4,3,y,Price was not marked on ticket,Dinner needs to be available befor 5pm. How about 4pm on the weekends or earlier!
+36,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,The 5:00pm menu should be 3:00pm on the weekends
+37,06_04_2021,5,5,5,5,5,y,Ticket price was lower than expected,Charcuterie Board was amazing. We should buy more Lazy Susans and sell those for $20.
+38,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,   Move High Chairs to server room
+39,06_04_2021,5,5,5,5,5,y,Ticket price was lower than expected,   Green Chili tacos were warm
+40,06_04_2021,3,4,4,4,5,y,Ticket Matched Expected Price,   Pickled carrots are great!!
+41,06_04_2021,4,4,4,4,3,y,Ticket Matched Expected Price,"   All in all, really great experience and tons of value."
+42,06_04_2021,5,5,5,5,5,y,Price was not marked on ticket,We will be back. Excellent!!!
+43,06_04_2021,4,5,5,5,3,y,Price was not marked on ticket,
+44,06_04_2021,5,5,5,5,5,y,Ticket price was lower than expected,
+45,06_04_2021,5,4,5,5,3,y,Ticket Matched Expected Price,
+46,06_04_2021,4,5,5,4,4,y,Ticket price was more than expected,
+47,06_04_2021,4,4,4,5,3,y,Ticket Matched Expected Price,
+48,06_04_2021,5,4,5,5,5,y,Price was not marked on ticket,
+49,06_04_2021,5,4,4,4,3,y,Ticket Matched Expected Price,
+50,06_04_2021,5,5,5,5,3,y,Price was not marked on ticket,
+51,06_04_2021,5,5,4,4,2,y,Ticket Matched Expected Price,
+52,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+53,06_04_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+54,06_04_2021,4,4,4,4,4,y,Ticket Matched Expected Price,
+55,06_04_2021,5,5,5,5,4,y,Ticket Matched Expected Price,
+56,06_04_2021,5,5,5,5,5,y,,

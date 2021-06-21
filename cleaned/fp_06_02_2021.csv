@@ -1,10 +1,16 @@
-,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
-0,4,4,4,4,4,y,Ticket Matched Expected Price,"Brunch menu a little limited. Beautiful restaurant 5+. Cody was our waitress, friendly, courteous"
-1,5,4,5,4,4,y,Ticket Matched Expected Price,Nice Place
-2,4,3,3,3,4,y,Price was not marked on ticket,Great Job!
-3,5,5,5,5,5,y,Ticket Matched Expected Price,Great experience - glad you're here
-4,5,5,5,5,5,y,Ticket Matched Expected Price,Full menu after lunch rush and dessert all day :) Excellent
-5,5,5,5,5,5,y,Ticket Matched Expected Price,Thanks for all the vegetarian food!
-6,5,5,5,5,5,y,Price was not marked on ticket,An espresso bar would be nice.
-7,5,5,5,5,5,y,Ticket Matched Expected Price,I will be back ! :)
-8,5,5,5,5,5,y,Ticket Matched Expected Price,5 being best experience possible. Overall great. Thank you
+,date,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
+0,06_02_2021,4,4,4,4,4,y,Ticket Matched Expected Price,"Brunch menu a little limited. Beautiful restaurant 5+. Cody was our waitress, friendly, courteous"
+1,06_02_2021,5,4,5,4,4,y,Ticket Matched Expected Price,Nice Place
+2,06_02_2021,4,3,3,3,4,y,Price was not marked on ticket,Great Job!
+3,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Great experience - glad you're here
+4,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Full menu after lunch rush and dessert all day :) Excellent
+5,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Thanks for all the vegetarian food!
+6,06_02_2021,5,5,5,5,5,y,Price was not marked on ticket,An espresso bar would be nice.
+7,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,I will be back ! :)
+8,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,5 being best experience possible. Overall great. Thank you
+9,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+10,06_02_2021,5,5,5,5,4,y,Ticket Matched Expected Price,
+11,06_02_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+12,06_02_2021,4,5,4,4,4,y,Ticket Matched Expected Price,
+13,06_02_2021,5,5,5,5,5,y,Price was not marked on ticket,
+14,06_02_2021,5,5,5,5,4,y,Price was not marked on ticket,

@@ -1,13 +1,27 @@
-,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
-0,5,5,5,5,5,y,Ticket Matched Expected Price,"The food was fabulous. I'm concerned you might be a little pricey for Canon. Also, I think maybe a lunch special for local businesses"
-1,5,5,5,5,5,y,Price was not marked on ticket,"Rose is a delight, we're very pleased with her service"
-2,5,5,5,5,5,y,Ticket price was more than expected,More  buffet options
-3,5,5,5,5,5,y,Ticket Matched Expected Price,loved the bread. Inexperienced wait staff.
-4,5,5,5,5,4,y,Ticket Matched Expected Price,"Service was excellent, food was fresh & flavorfull"
-5,2,4,4,4,3,y,Ticket Matched Expected Price,Very pretty building :)
-6,5,5,5,5,5,y,Ticket Matched Expected Price,Very Nice Michael
-7,2,3,4,3,3,y,Price was not marked on ticket,NICE RESTAURANT!
-8,3,3,4,3,4,y,Ticket Matched Expected Price,Hamburger was under cooked. Bread to thick
-9,4,5,4,4,4,y,Ticket Matched Expected Price,Lovely experience !
-10,2,5,4,4,4,y,Ticket Matched Expected Price,The BBQ Pork on my nachos was completely cold
-11,5,3,5,4,4,y,Price was not marked on ticket,"4-Once we got it, outside music to loud. Wait staff needs more training"
+,date,service,food_quality,environment,experience,menu_options,reccomend,price_point,comments
+0,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,"The food was fabulous. I'm concerned you might be a little pricey for Canon. Also, I think maybe a lunch special for local businesses"
+1,06_03_2021,5,5,5,5,5,y,Price was not marked on ticket,"Rose is a delight, we're very pleased with her service"
+2,06_03_2021,5,5,5,5,5,y,Ticket price was more than expected,More  buffet options
+3,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,loved the bread. Inexperienced wait staff.
+4,06_03_2021,5,5,5,5,4,y,Ticket Matched Expected Price,"Service was excellent, food was fresh & flavorfull"
+5,06_03_2021,2,4,4,4,3,y,Ticket Matched Expected Price,Very pretty building :)
+6,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,Very Nice Michael
+7,06_03_2021,2,3,4,3,3,y,Price was not marked on ticket,NICE RESTAURANT!
+8,06_03_2021,3,3,4,3,4,y,Ticket Matched Expected Price,Hamburger was under cooked. Bread to thick
+9,06_03_2021,4,5,4,4,4,y,Ticket Matched Expected Price,Lovely experience !
+10,06_03_2021,2,5,4,4,4,y,Ticket Matched Expected Price,The BBQ Pork on my nachos was completely cold
+11,06_03_2021,5,3,5,4,4,y,Price was not marked on ticket,"4-Once we got it, outside music to loud. Wait staff needs more training"
+12,06_03_2021,5,3,5,4,5,y,Ticket Matched Expected Price,
+13,06_03_2021,3,4,4,4,3,y,Ticket Matched Expected Price,
+14,06_03_2021,5,5,5,5,4,y,Ticket Matched Expected Price,
+15,06_03_2021,5,5,5,5,5,y,Price was not marked on ticket,
+16,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+17,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+18,06_03_2021,5,5,5,5,5,y,Price was not marked on ticket,
+19,06_03_2021,5,3,5,5,5,y,Price was not marked on ticket,
+20,06_03_2021,5,5,5,5,5,y,Price was not marked on ticket,
+21,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+22,06_03_2021,5,5,5,5,5,y,Ticket Matched Expected Price,
+23,06_03_2021,5,4,4,5,4,y,Ticket Matched Expected Price,
+24,06_03_2021,4,4,3,3,4,y,Ticket Matched Expected Price,
+25,06_03_2021,5,5,5,5,5,,Ticket Matched Expected Price,
