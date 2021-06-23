@@ -12,7 +12,7 @@
 #### Before Uploading I run some analysis to store the daily averages and all reviews in a mongoDB:
 ![Analysis Pre DB](https://user-images.githubusercontent.com/72579469/123180571-c56e3500-d448-11eb-9a35-68aaa1bf570d.JPG)
 
-##Load 
+## Load 
 #### I then load my daily averages into a mongoDB called fp_daily_averages:
 ![Mongo averages DB](https://user-images.githubusercontent.com/72579469/123180671-f3537980-d448-11eb-912a-ab2039d84624.JPG)
 #### I also upload all my reviews to a DB called fp_reviews
